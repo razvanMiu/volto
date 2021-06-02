@@ -1,0 +1,34 @@
+{
+    "compilerOptions": {
+        "paths": {
+            "volto-datablocks": [
+                "addons/volto-datablocks/src"
+            ],
+            "volto-slate": [
+                "addons/volto-slate/src"
+            ],
+            "@eeacms/volto-block-style": [
+                "addons/volto-block-style/src"
+            ],
+            "@eeacms/volto-columns-block": [
+                "addons/volto-columns-block/src"
+            ],
+            "@eeacms/volto-datablocks": [
+                "addons/volto-datablocks/src"
+            ],
+            "volto-plotlycharts": [
+                "addons/volto-plotlycharts/src"
+            ],
+            "@eeacms/volto-tableau": [
+                "addons/volto-tableau/src"
+            ],
+            "@eeacms/volto-tabs-block": [
+                "addons/volto-tabs-block/src"
+            ],
+            "@eeacms/volto-openlayers-map": [
+                "addons/volto-openlayers-map/src"
+            ]
+        },
+        "baseUrl": "src"
+    }
+}
